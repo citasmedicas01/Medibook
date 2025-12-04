@@ -1,2 +1,0 @@
-# Medibook
-citas medicas
